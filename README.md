@@ -1,6 +1,6 @@
 Bluegrass Brawl
 
-A Street Fighter esque game that pits simple mountain folk against societys worst villains!
+A Mortal Kombat esque game that pits simple mountain folk against societys worst villains!
 
 To play - 
 Download the repository in your preferred method
